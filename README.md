@@ -1,2 +1,2 @@
-# TkinterProjects
-My All Tkinter Projects in one Repo.
+# Python-TkinterProjects
+My All Python-Tkinter Projects in one Repo.
